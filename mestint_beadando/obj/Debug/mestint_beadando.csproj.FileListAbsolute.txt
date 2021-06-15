@@ -1,0 +1,10 @@
+C:\ClonedRepos\mestint_beadando\mestint_beadando\bin\Debug\mestint_beadando.exe.config
+C:\ClonedRepos\mestint_beadando\mestint_beadando\bin\Debug\mestint_beadando.exe
+C:\ClonedRepos\mestint_beadando\mestint_beadando\bin\Debug\mestint_beadando.pdb
+C:\ClonedRepos\mestint_beadando\mestint_beadando\obj\Debug\mestint_beadando.csproj.AssemblyReference.cache
+C:\ClonedRepos\mestint_beadando\mestint_beadando\obj\Debug\mestint_beadando.Form1.resources
+C:\ClonedRepos\mestint_beadando\mestint_beadando\obj\Debug\mestint_beadando.Properties.Resources.resources
+C:\ClonedRepos\mestint_beadando\mestint_beadando\obj\Debug\mestint_beadando.csproj.GenerateResource.cache
+C:\ClonedRepos\mestint_beadando\mestint_beadando\obj\Debug\mestint_beadando.csproj.CoreCompileInputs.cache
+C:\ClonedRepos\mestint_beadando\mestint_beadando\obj\Debug\mestint_beadando.exe
+C:\ClonedRepos\mestint_beadando\mestint_beadando\obj\Debug\mestint_beadando.pdb
